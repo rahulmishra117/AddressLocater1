@@ -1,7 +1,10 @@
 # AddressLocater1
 This is web app by which we should find and share our current location  
 
-Technolgy Use:-
+#GIT REPO LINK:-
+https://github.com/rahulmishra117/AddressLocater1
+
+##Technolgy Use:-
 
 Front-end: HTML,CSS ,JAVASCRIPT.
 Backend:- PHP ,MYSQL .
