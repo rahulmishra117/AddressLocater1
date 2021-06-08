@@ -2,7 +2,7 @@
 This is web app by which we should find and share our current location  
 
 #GIT REPO LINK:-
-[a link](https://github.com/rahulmishra117/AddressLocater1)
+[AddressLocater](https://github.com/rahulmishra117/AddressLocater1)
 
 ##Technolgy Use:-
 
